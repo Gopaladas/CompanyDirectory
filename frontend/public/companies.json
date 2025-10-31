@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "name": "Infosys",
+    "location": "New York, USA",
+    "industry": "Healthcare",
+    "description": "Infosys is a leading company in the Healthcare sector with operations in multiple countries.",
+    "details": "Infosys has consistently delivered innovation and growth in the Healthcare industry. Headquartered in New York, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@infosys.com"
+  },
+  {
+    "id": 2,
+    "name": "Amazon",
+    "location": "California, USA",
+    "industry": "Telecommunications",
+    "description": "Amazon is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "Amazon has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in California, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@amazon.com"
+  },
+  {
+    "id": 3,
+    "name": "Tata Consultancy Services",
+    "location": "New York, USA",
+    "industry": "IT Services",
+    "description": "Tata Consultancy Services is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "Tata Consultancy Services has consistently delivered innovation and growth in the IT Services industry. Headquartered in New York, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@tataconsultancyservices.com"
+  },
+  {
+    "id": 4,
+    "name": "Microsoft",
+    "location": "California, USA",
+    "industry": "Finance",
+    "description": "Microsoft is a leading company in the Finance sector with operations in multiple countries.",
+    "details": "Microsoft has consistently delivered innovation and growth in the Finance industry. Headquartered in California, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@microsoft.com"
+  },
+  {
+    "id": 5,
+    "name": "Accenture",
+    "location": "Berlin, Germany",
+    "industry": "Telecommunications",
+    "description": "Accenture is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "Accenture has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@accenture.com"
+  },
+  {
+    "id": 6,
+    "name": "IBM",
+    "location": "Sydney, Australia",
+    "industry": "Manufacturing",
+    "description": "IBM is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "IBM has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@ibm.com"
+  },
+  {
+    "id": 7,
+    "name": "Wipro",
+    "location": "Bangalore, India",
+    "industry": "Healthcare",
+    "description": "Wipro is a leading company in the Healthcare sector with operations in multiple countries.",
+    "details": "Wipro has consistently delivered innovation and growth in the Healthcare industry. Headquartered in Bangalore, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@wipro.com"
+  },
+  {
+    "id": 8,
+    "name": "Meta",
+    "location": "Berlin, Germany",
+    "industry": "IT Services",
+    "description": "Meta is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "Meta has consistently delivered innovation and growth in the IT Services industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@meta.com"
+  },
+  {
+    "id": 9,
+    "name": "Reliance Industries",
+    "location": "London, UK",
+    "industry": "IT Services",
+    "description": "Reliance Industries is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "Reliance Industries has consistently delivered innovation and growth in the IT Services industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@relianceindustries.com"
+  },
+  {
+    "id": 10,
+    "name": "Capgemini",
+    "location": "Sydney, Australia",
+    "industry": "Telecommunications",
+    "description": "Capgemini is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "Capgemini has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@capgemini.com"
+  },
+  {
+    "id": 11,
+    "name": "Oracle",
+    "location": "London, UK",
+    "industry": "Retail",
+    "description": "Oracle is a leading company in the Retail sector with operations in multiple countries.",
+    "details": "Oracle has consistently delivered innovation and growth in the Retail industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@oracle.com"
+  },
+  {
+    "id": 12,
+    "name": "Deloitte",
+    "location": "Sydney, Australia",
+    "industry": "Finance",
+    "description": "Deloitte is a leading company in the Finance sector with operations in multiple countries.",
+    "details": "Deloitte has consistently delivered innovation and growth in the Finance industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@deloitte.com"
+  },
+  {
+    "id": 13,
+    "name": "Adobe",
+    "location": "Toronto, Canada",
+    "industry": "IT Services",
+    "description": "Adobe is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "Adobe has consistently delivered innovation and growth in the IT Services industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@adobe.com"
+  },
+  {
+    "id": 14,
+    "name": "Cognizant",
+    "location": "Dubai, UAE",
+    "industry": "E-commerce",
+    "description": "Cognizant is a leading company in the E-commerce sector with operations in multiple countries.",
+    "details": "Cognizant has consistently delivered innovation and growth in the E-commerce industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@cognizant.com"
+  },
+  {
+    "id": 15,
+    "name": "Tech Mahindra",
+    "location": "Tokyo, Japan",
+    "industry": "Finance",
+    "description": "Tech Mahindra is a leading company in the Finance sector with operations in multiple countries.",
+    "details": "Tech Mahindra has consistently delivered innovation and growth in the Finance industry. Headquartered in Tokyo, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@techmahindra.com"
+  },
+  {
+    "id": 16,
+    "name": "HCLTech",
+    "location": "California, USA",
+    "industry": "IT Services",
+    "description": "HCLTech is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "HCLTech has consistently delivered innovation and growth in the IT Services industry. Headquartered in California, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@hcltech.com"
+  },
+  {
+    "id": 17,
+    "name": "SAP",
+    "location": "Paris, France",
+    "industry": "Telecommunications",
+    "description": "SAP is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "SAP has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in Paris, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@sap.com"
+  },
+  {
+    "id": 18,
+    "name": "Flipkart",
+    "location": "London, UK",
+    "industry": "Finance",
+    "description": "Flipkart is a leading company in the Finance sector with operations in multiple countries.",
+    "details": "Flipkart has consistently delivered innovation and growth in the Finance industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@flipkart.com"
+  },
+  {
+    "id": 19,
+    "name": "Byjus",
+    "location": "Sydney, Australia",
+    "industry": "Technology",
+    "description": "Byjus is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "Byjus has consistently delivered innovation and growth in the Technology industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@byjus.com"
+  },
+  {
+    "id": 20,
+    "name": "Siemens",
+    "location": "Paris, France",
+    "industry": "Retail",
+    "description": "Siemens is a leading company in the Retail sector with operations in multiple countries.",
+    "details": "Siemens has consistently delivered innovation and growth in the Retail industry. Headquartered in Paris, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@siemens.com"
+  },
+  {
+    "id": 21,
+    "name": "Uber",
+    "location": "Sydney, Australia",
+    "industry": "Education",
+    "description": "Uber is a leading company in the Education sector with operations in multiple countries.",
+    "details": "Uber has consistently delivered innovation and growth in the Education industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@uber.com"
+  },
+  {
+    "id": 22,
+    "name": "Zomato",
+    "location": "Sydney, Australia",
+    "industry": "Technology",
+    "description": "Zomato is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "Zomato has consistently delivered innovation and growth in the Technology industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@zomato.com"
+  },
+  {
+    "id": 23,
+    "name": "Paytm",
+    "location": "New York, USA",
+    "industry": "Manufacturing",
+    "description": "Paytm is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Paytm has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in New York, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@paytm.com"
+  },
+  {
+    "id": 24,
+    "name": "Zoom",
+    "location": "Dubai, UAE",
+    "industry": "E-commerce",
+    "description": "Zoom is a leading company in the E-commerce sector with operations in multiple countries.",
+    "details": "Zoom has consistently delivered innovation and growth in the E-commerce industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@zoom.com"
+  },
+  {
+    "id": 25,
+    "name": "Airbnb",
+    "location": "Bangalore, India",
+    "industry": "Consulting",
+    "description": "Airbnb is a leading company in the Consulting sector with operations in multiple countries.",
+    "details": "Airbnb has consistently delivered innovation and growth in the Consulting industry. Headquartered in Bangalore, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@airbnb.com"
+  },
+  {
+    "id": 26,
+    "name": "Netflix",
+    "location": "London, UK",
+    "industry": "Consulting",
+    "description": "Netflix is a leading company in the Consulting sector with operations in multiple countries.",
+    "details": "Netflix has consistently delivered innovation and growth in the Consulting industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@netflix.com"
+  },
+  {
+    "id": 27,
+    "name": "Tesla",
+    "location": "Dubai, UAE",
+    "industry": "IT Services",
+    "description": "Tesla is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "Tesla has consistently delivered innovation and growth in the IT Services industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@tesla.com"
+  },
+  {
+    "id": 28,
+    "name": "SpaceX",
+    "location": "Toronto, Canada",
+    "industry": "Telecommunications",
+    "description": "SpaceX is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "SpaceX has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@spacex.com"
+  },
+  {
+    "id": 29,
+    "name": "Qualcomm",
+    "location": "Dubai, UAE",
+    "industry": "Technology",
+    "description": "Qualcomm is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "Qualcomm has consistently delivered innovation and growth in the Technology industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@qualcomm.com"
+  },
+  {
+    "id": 30,
+    "name": "Intel",
+    "location": "Bangalore, India",
+    "industry": "Manufacturing",
+    "description": "Intel is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Intel has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in Bangalore, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@intel.com"
+  },
+  {
+    "id": 31,
+    "name": "HP",
+    "location": "Bangalore, India",
+    "industry": "Technology",
+    "description": "HP is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "HP has consistently delivered innovation and growth in the Technology industry. Headquartered in Bangalore, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@hp.com"
+  },
+  {
+    "id": 32,
+    "name": "Dell",
+    "location": "New York, USA",
+    "industry": "Manufacturing",
+    "description": "Dell is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Dell has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in New York, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@dell.com"
+  },
+  {
+    "id": 33,
+    "name": "Cisco",
+    "location": "Bangalore, India",
+    "industry": "Telecommunications",
+    "description": "Cisco is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "Cisco has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in Bangalore, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@cisco.com"
+  },
+  {
+    "id": 34,
+    "name": "Salesforce",
+    "location": "Paris, France",
+    "industry": "Retail",
+    "description": "Salesforce is a leading company in the Retail sector with operations in multiple countries.",
+    "details": "Salesforce has consistently delivered innovation and growth in the Retail industry. Headquartered in Paris, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@salesforce.com"
+  },
+  {
+    "id": 35,
+    "name": "Spotify",
+    "location": "Toronto, Canada",
+    "industry": "Retail",
+    "description": "Spotify is a leading company in the Retail sector with operations in multiple countries.",
+    "details": "Spotify has consistently delivered innovation and growth in the Retail industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@spotify.com"
+  },
+  {
+    "id": 36,
+    "name": "Goldman Sachs",
+    "location": "Berlin, Germany",
+    "industry": "Technology",
+    "description": "Goldman Sachs is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "Goldman Sachs has consistently delivered innovation and growth in the Technology industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@goldmansachs.com"
+  },
+  {
+    "id": 37,
+    "name": "Morgan Stanley",
+    "location": "Paris, France",
+    "industry": "Healthcare",
+    "description": "Morgan Stanley is a leading company in the Healthcare sector with operations in multiple countries.",
+    "details": "Morgan Stanley has consistently delivered innovation and growth in the Healthcare industry. Headquartered in Paris, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@morganstanley.com"
+  },
+  {
+    "id": 38,
+    "name": "JP Morgan Chase",
+    "location": "London, UK",
+    "industry": "IT Services",
+    "description": "JP Morgan Chase is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "JP Morgan Chase has consistently delivered innovation and growth in the IT Services industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@jpmorganchase.com"
+  },
+  {
+    "id": 39,
+    "name": "EY",
+    "location": "London, UK",
+    "industry": "Technology",
+    "description": "EY is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "EY has consistently delivered innovation and growth in the Technology industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@ey.com"
+  },
+  {
+    "id": 40,
+    "name": "PwC",
+    "location": "California, USA",
+    "industry": "E-commerce",
+    "description": "PwC is a leading company in the E-commerce sector with operations in multiple countries.",
+    "details": "PwC has consistently delivered innovation and growth in the E-commerce industry. Headquartered in California, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@pwc.com"
+  },
+  {
+    "id": 41,
+    "name": "KPMG",
+    "location": "Toronto, Canada",
+    "industry": "Telecommunications",
+    "description": "KPMG is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "KPMG has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@kpmg.com"
+  },
+  {
+    "id": 42,
+    "name": "Larsen & Toubro",
+    "location": "Bangalore, India",
+    "industry": "E-commerce",
+    "description": "Larsen & Toubro is a leading company in the E-commerce sector with operations in multiple countries.",
+    "details": "Larsen & Toubro has consistently delivered innovation and growth in the E-commerce industry. Headquartered in Bangalore, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@larsen&toubro.com"
+  },
+  {
+    "id": 43,
+    "name": "Ola Cabs",
+    "location": "Bangalore, India",
+    "industry": "Telecommunications",
+    "description": "Ola Cabs is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "Ola Cabs has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in Bangalore, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@olacabs.com"
+  },
+  {
+    "id": 44,
+    "name": "Swiggy",
+    "location": "New York, USA",
+    "industry": "Consulting",
+    "description": "Swiggy is a leading company in the Consulting sector with operations in multiple countries.",
+    "details": "Swiggy has consistently delivered innovation and growth in the Consulting industry. Headquartered in New York, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@swiggy.com"
+  },
+  {
+    "id": 45,
+    "name": "IBM India",
+    "location": "London, UK",
+    "industry": "Finance",
+    "description": "IBM India is a leading company in the Finance sector with operations in multiple countries.",
+    "details": "IBM India has consistently delivered innovation and growth in the Finance industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@ibmindia.com"
+  },
+  {
+    "id": 46,
+    "name": "Mindtree",
+    "location": "Tokyo, Japan",
+    "industry": "Education",
+    "description": "Mindtree is a leading company in the Education sector with operations in multiple countries.",
+    "details": "Mindtree has consistently delivered innovation and growth in the Education industry. Headquartered in Tokyo, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@mindtree.com"
+  },
+  {
+    "id": 47,
+    "name": "Persistent Systems",
+    "location": "London, UK",
+    "industry": "E-commerce",
+    "description": "Persistent Systems is a leading company in the E-commerce sector with operations in multiple countries.",
+    "details": "Persistent Systems has consistently delivered innovation and growth in the E-commerce industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@persistentsystems.com"
+  },
+  {
+    "id": 48,
+    "name": "Mphasis",
+    "location": "Berlin, Germany",
+    "industry": "Telecommunications",
+    "description": "Mphasis is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "Mphasis has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@mphasis.com"
+  },
+  {
+    "id": 49,
+    "name": "Amazon India",
+    "location": "Bangalore, India",
+    "industry": "Healthcare",
+    "description": "Amazon India is a leading company in the Healthcare sector with operations in multiple countries.",
+    "details": "Amazon India has consistently delivered innovation and growth in the Healthcare industry. Headquartered in Bangalore, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@amazonindia.com"
+  },
+  {
+    "id": 50,
+    "name": "Google Cloud",
+    "location": "Tokyo, Japan",
+    "industry": "E-commerce",
+    "description": "Google Cloud is a leading company in the E-commerce sector with operations in multiple countries.",
+    "details": "Google Cloud has consistently delivered innovation and growth in the E-commerce industry. Headquartered in Tokyo, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@googlecloud.com"
+  },
+  {
+    "id": 51,
+    "name": "Adobe India",
+    "location": "Berlin, Germany",
+    "industry": "Manufacturing",
+    "description": "Adobe India is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Adobe India has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@adobeindia.com"
+  },
+  {
+    "id": 52,
+    "name": "Infosys BPM",
+    "location": "Berlin, Germany",
+    "industry": "Finance",
+    "description": "Infosys BPM is a leading company in the Finance sector with operations in multiple countries.",
+    "details": "Infosys BPM has consistently delivered innovation and growth in the Finance industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@infosysbpm.com"
+  },
+  {
+    "id": 53,
+    "name": "TCS Digital",
+    "location": "Sydney, Australia",
+    "industry": "IT Services",
+    "description": "TCS Digital is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "TCS Digital has consistently delivered innovation and growth in the IT Services industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@tcsdigital.com"
+  },
+  {
+    "id": 54,
+    "name": "Hewlett Packard Enterprise",
+    "location": "New York, USA",
+    "industry": "Consulting",
+    "description": "Hewlett Packard Enterprise is a leading company in the Consulting sector with operations in multiple countries.",
+    "details": "Hewlett Packard Enterprise has consistently delivered innovation and growth in the Consulting industry. Headquartered in New York, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@hewlettpackardenterprise.com"
+  },
+  {
+    "id": 55,
+    "name": "Intel India",
+    "location": "Dubai, UAE",
+    "industry": "IT Services",
+    "description": "Intel India is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "Intel India has consistently delivered innovation and growth in the IT Services industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@intelindia.com"
+  },
+  {
+    "id": 56,
+    "name": "Techwave",
+    "location": "Paris, France",
+    "industry": "Technology",
+    "description": "Techwave is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "Techwave has consistently delivered innovation and growth in the Technology industry. Headquartered in Paris, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@techwave.com"
+  },
+  {
+    "id": 57,
+    "name": "Hitachi",
+    "location": "Paris, France",
+    "industry": "Education",
+    "description": "Hitachi is a leading company in the Education sector with operations in multiple countries.",
+    "details": "Hitachi has consistently delivered innovation and growth in the Education industry. Headquartered in Paris, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@hitachi.com"
+  },
+  {
+    "id": 58,
+    "name": "Bosch",
+    "location": "Toronto, Canada",
+    "industry": "IT Services",
+    "description": "Bosch is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "Bosch has consistently delivered innovation and growth in the IT Services industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@bosch.com"
+  },
+  {
+    "id": 59,
+    "name": "Philips",
+    "location": "London, UK",
+    "industry": "Healthcare",
+    "description": "Philips is a leading company in the Healthcare sector with operations in multiple countries.",
+    "details": "Philips has consistently delivered innovation and growth in the Healthcare industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@philips.com"
+  },
+  {
+    "id": 60,
+    "name": "Unilever",
+    "location": "Toronto, Canada",
+    "industry": "Retail",
+    "description": "Unilever is a leading company in the Retail sector with operations in multiple countries.",
+    "details": "Unilever has consistently delivered innovation and growth in the Retail industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@unilever.com"
+  },
+  {
+    "id": 61,
+    "name": "Procter & Gamble",
+    "location": "Toronto, Canada",
+    "industry": "Technology",
+    "description": "Procter & Gamble is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "Procter & Gamble has consistently delivered innovation and growth in the Technology industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@procter&gamble.com"
+  },
+  {
+    "id": 62,
+    "name": "Nestle",
+    "location": "Dubai, UAE",
+    "industry": "Technology",
+    "description": "Nestle is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "Nestle has consistently delivered innovation and growth in the Technology industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@nestle.com"
+  },
+  {
+    "id": 63,
+    "name": "PepsiCo",
+    "location": "Paris, France",
+    "industry": "Telecommunications",
+    "description": "PepsiCo is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "PepsiCo has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in Paris, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@pepsico.com"
+  },
+  {
+    "id": 64,
+    "name": "Coca-Cola",
+    "location": "Paris, France",
+    "industry": "IT Services",
+    "description": "Coca-Cola is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "Coca-Cola has consistently delivered innovation and growth in the IT Services industry. Headquartered in Paris, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@coca-cola.com"
+  },
+  {
+    "id": 65,
+    "name": "Bajaj Finserv",
+    "location": "Dubai, UAE",
+    "industry": "Manufacturing",
+    "description": "Bajaj Finserv is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Bajaj Finserv has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@bajajfinserv.com"
+  },
+  {
+    "id": 66,
+    "name": "ICICI Bank",
+    "location": "Toronto, Canada",
+    "industry": "Healthcare",
+    "description": "ICICI Bank is a leading company in the Healthcare sector with operations in multiple countries.",
+    "details": "ICICI Bank has consistently delivered innovation and growth in the Healthcare industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@icicibank.com"
+  },
+  {
+    "id": 67,
+    "name": "HDFC Bank",
+    "location": "London, UK",
+    "industry": "Telecommunications",
+    "description": "HDFC Bank is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "HDFC Bank has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@hdfcbank.com"
+  },
+  {
+    "id": 68,
+    "name": "Axis Bank",
+    "location": "Tokyo, Japan",
+    "industry": "Finance",
+    "description": "Axis Bank is a leading company in the Finance sector with operations in multiple countries.",
+    "details": "Axis Bank has consistently delivered innovation and growth in the Finance industry. Headquartered in Tokyo, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@axisbank.com"
+  },
+  {
+    "id": 69,
+    "name": "Standard Chartered",
+    "location": "Sydney, Australia",
+    "industry": "E-commerce",
+    "description": "Standard Chartered is a leading company in the E-commerce sector with operations in multiple countries.",
+    "details": "Standard Chartered has consistently delivered innovation and growth in the E-commerce industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@standardchartered.com"
+  },
+  {
+    "id": 70,
+    "name": "Accolite Digital",
+    "location": "Sydney, Australia",
+    "industry": "Retail",
+    "description": "Accolite Digital is a leading company in the Retail sector with operations in multiple countries.",
+    "details": "Accolite Digital has consistently delivered innovation and growth in the Retail industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@accolitedigital.com"
+  },
+  {
+    "id": 71,
+    "name": "Zoho",
+    "location": "Dubai, UAE",
+    "industry": "Retail",
+    "description": "Zoho is a leading company in the Retail sector with operations in multiple countries.",
+    "details": "Zoho has consistently delivered innovation and growth in the Retail industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@zoho.com"
+  },
+  {
+    "id": 72,
+    "name": "Freshworks",
+    "location": "Berlin, Germany",
+    "industry": "Manufacturing",
+    "description": "Freshworks is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Freshworks has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@freshworks.com"
+  },
+  {
+    "id": 73,
+    "name": "InMobi",
+    "location": "Toronto, Canada",
+    "industry": "Healthcare",
+    "description": "InMobi is a leading company in the Healthcare sector with operations in multiple countries.",
+    "details": "InMobi has consistently delivered innovation and growth in the Healthcare industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@inmobi.com"
+  },
+  {
+    "id": 74,
+    "name": "MakeMyTrip",
+    "location": "Dubai, UAE",
+    "industry": "Manufacturing",
+    "description": "MakeMyTrip is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "MakeMyTrip has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@makemytrip.com"
+  },
+  {
+    "id": 75,
+    "name": "Snapdeal",
+    "location": "London, UK",
+    "industry": "Manufacturing",
+    "description": "Snapdeal is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Snapdeal has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@snapdeal.com"
+  },
+  {
+    "id": 76,
+    "name": "Tata Motors",
+    "location": "Dubai, UAE",
+    "industry": "Healthcare",
+    "description": "Tata Motors is a leading company in the Healthcare sector with operations in multiple countries.",
+    "details": "Tata Motors has consistently delivered innovation and growth in the Healthcare industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@tatamotors.com"
+  },
+  {
+    "id": 77,
+    "name": "Maruti Suzuki",
+    "location": "Sydney, Australia",
+    "industry": "Manufacturing",
+    "description": "Maruti Suzuki is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Maruti Suzuki has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@marutisuzuki.com"
+  },
+  {
+    "id": 78,
+    "name": "Mahindra",
+    "location": "Sydney, Australia",
+    "industry": "Retail",
+    "description": "Mahindra is a leading company in the Retail sector with operations in multiple countries.",
+    "details": "Mahindra has consistently delivered innovation and growth in the Retail industry. Headquartered in Sydney, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@mahindra.com"
+  },
+  {
+    "id": 79,
+    "name": "Ford",
+    "location": "Tokyo, Japan",
+    "industry": "Technology",
+    "description": "Ford is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "Ford has consistently delivered innovation and growth in the Technology industry. Headquartered in Tokyo, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@ford.com"
+  },
+  {
+    "id": 80,
+    "name": "Nissan",
+    "location": "Paris, France",
+    "industry": "Technology",
+    "description": "Nissan is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "Nissan has consistently delivered innovation and growth in the Technology industry. Headquartered in Paris, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@nissan.com"
+  },
+  {
+    "id": 81,
+    "name": "Toyota",
+    "location": "Tokyo, Japan",
+    "industry": "Telecommunications",
+    "description": "Toyota is a leading company in the Telecommunications sector with operations in multiple countries.",
+    "details": "Toyota has consistently delivered innovation and growth in the Telecommunications industry. Headquartered in Tokyo, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@toyota.com"
+  },
+  {
+    "id": 82,
+    "name": "Honda",
+    "location": "London, UK",
+    "industry": "Finance",
+    "description": "Honda is a leading company in the Finance sector with operations in multiple countries.",
+    "details": "Honda has consistently delivered innovation and growth in the Finance industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@honda.com"
+  },
+  {
+    "id": 83,
+    "name": "Oyo Rooms",
+    "location": "Dubai, UAE",
+    "industry": "Manufacturing",
+    "description": "Oyo Rooms is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Oyo Rooms has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@oyorooms.com"
+  },
+  {
+    "id": 84,
+    "name": "BookMyShow",
+    "location": "Berlin, Germany",
+    "industry": "E-commerce",
+    "description": "BookMyShow is a leading company in the E-commerce sector with operations in multiple countries.",
+    "details": "BookMyShow has consistently delivered innovation and growth in the E-commerce industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@bookmyshow.com"
+  },
+  {
+    "id": 85,
+    "name": "Nykaa",
+    "location": "London, UK",
+    "industry": "Finance",
+    "description": "Nykaa is a leading company in the Finance sector with operations in multiple countries.",
+    "details": "Nykaa has consistently delivered innovation and growth in the Finance industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@nykaa.com"
+  },
+  {
+    "id": 86,
+    "name": "Reliance Retail",
+    "location": "New York, USA",
+    "industry": "Manufacturing",
+    "description": "Reliance Retail is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Reliance Retail has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in New York, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@relianceretail.com"
+  },
+  {
+    "id": 87,
+    "name": "Adani Group",
+    "location": "Tokyo, Japan",
+    "industry": "Manufacturing",
+    "description": "Adani Group is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "Adani Group has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in Tokyo, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@adanigroup.com"
+  },
+  {
+    "id": 88,
+    "name": "L&T Infotech",
+    "location": "Toronto, Canada",
+    "industry": "E-commerce",
+    "description": "L&T Infotech is a leading company in the E-commerce sector with operations in multiple countries.",
+    "details": "L&T Infotech has consistently delivered innovation and growth in the E-commerce industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@l&tinfotech.com"
+  },
+  {
+    "id": 89,
+    "name": "Havells",
+    "location": "London, UK",
+    "industry": "Consulting",
+    "description": "Havells is a leading company in the Consulting sector with operations in multiple countries.",
+    "details": "Havells has consistently delivered innovation and growth in the Consulting industry. Headquartered in London, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@havells.com"
+  },
+  {
+    "id": 90,
+    "name": "Crompton Greaves",
+    "location": "Dubai, UAE",
+    "industry": "Education",
+    "description": "Crompton Greaves is a leading company in the Education sector with operations in multiple countries.",
+    "details": "Crompton Greaves has consistently delivered innovation and growth in the Education industry. Headquartered in Dubai, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@cromptongreaves.com"
+  },
+  {
+    "id": 91,
+    "name": "Blue Star",
+    "location": "Tokyo, Japan",
+    "industry": "Healthcare",
+    "description": "Blue Star is a leading company in the Healthcare sector with operations in multiple countries.",
+    "details": "Blue Star has consistently delivered innovation and growth in the Healthcare industry. Headquartered in Tokyo, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@bluestar.com"
+  },
+  {
+    "id": 92,
+    "name": "Bharat Electronics Limited",
+    "location": "Bangalore, India",
+    "industry": "Education",
+    "description": "Bharat Electronics Limited is a leading company in the Education sector with operations in multiple countries.",
+    "details": "Bharat Electronics Limited has consistently delivered innovation and growth in the Education industry. Headquartered in Bangalore, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@bharatelectronicslimited.com"
+  },
+  {
+    "id": 93,
+    "name": "ISRO",
+    "location": "Berlin, Germany",
+    "industry": "Education",
+    "description": "ISRO is a leading company in the Education sector with operations in multiple countries.",
+    "details": "ISRO has consistently delivered innovation and growth in the Education industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@isro.com"
+  },
+  {
+    "id": 94,
+    "name": "DRDO",
+    "location": "Paris, France",
+    "industry": "Finance",
+    "description": "DRDO is a leading company in the Finance sector with operations in multiple countries.",
+    "details": "DRDO has consistently delivered innovation and growth in the Finance industry. Headquartered in Paris, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@drdo.com"
+  },
+  {
+    "id": 95,
+    "name": "NPCIL",
+    "location": "Berlin, Germany",
+    "industry": "Technology",
+    "description": "NPCIL is a leading company in the Technology sector with operations in multiple countries.",
+    "details": "NPCIL has consistently delivered innovation and growth in the Technology industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@npcil.com"
+  },
+  {
+    "id": 96,
+    "name": "BHEL",
+    "location": "Tokyo, Japan",
+    "industry": "IT Services",
+    "description": "BHEL is a leading company in the IT Services sector with operations in multiple countries.",
+    "details": "BHEL has consistently delivered innovation and growth in the IT Services industry. Headquartered in Tokyo, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@bhel.com"
+  },
+  {
+    "id": 97,
+    "name": "ONGC",
+    "location": "Bangalore, India",
+    "industry": "Consulting",
+    "description": "ONGC is a leading company in the Consulting sector with operations in multiple countries.",
+    "details": "ONGC has consistently delivered innovation and growth in the Consulting industry. Headquartered in Bangalore, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@ongc.com"
+  },
+  {
+    "id": 98,
+    "name": "NTPC",
+    "location": "Berlin, Germany",
+    "industry": "Manufacturing",
+    "description": "NTPC is a leading company in the Manufacturing sector with operations in multiple countries.",
+    "details": "NTPC has consistently delivered innovation and growth in the Manufacturing industry. Headquartered in Berlin, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@ntpc.com"
+  },
+  {
+    "id": 99,
+    "name": "Indian Oil Corporation",
+    "location": "New York, USA",
+    "industry": "Consulting",
+    "description": "Indian Oil Corporation is a leading company in the Consulting sector with operations in multiple countries.",
+    "details": "Indian Oil Corporation has consistently delivered innovation and growth in the Consulting industry. Headquartered in New York, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@indianoilcorporation.com"
+  },
+  {
+    "id": 100,
+    "name": "Google",
+    "location": "Toronto, Canada",
+    "industry": "Retail",
+    "description": "Google is a leading company in the Retail sector with operations in multiple countries.",
+    "details": "Google has consistently delivered innovation and growth in the Retail industry. Headquartered in Toronto, it is known for excellence and cutting-edge solutions.",
+    "contact": "contact@google.com"
+  }
+]
