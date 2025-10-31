@@ -32,7 +32,14 @@ const FilterSidebar = ({
 
   return (
     <>
-      <div className="fixed right-0 top-0 h-full w-80 bg-white shadow-xl z-50 border-l border-gray-200">
+      {/* Mobile Backdrop */}
+      <div
+        className="fixed inset-0 bg-black bg-opacity-50 z-40 md:hidden"
+        onClick={onClose}
+      ></div>
+
+      {/* Sidebar */}
+      <div className="fixed right-0 top-0 h-full w-full md:w-80 bg-white shadow-xl z-50 border-l border-gray-200 md:max-w-sm">
         <div className="flex flex-col h-full">
           <div className="flex items-center justify-between p-4 border-b border-gray-200">
             <h2 className="text-lg font-semibold text-gray-900">Filters</h2>
@@ -107,13 +114,13 @@ const FilterSidebar = ({
           <div className="border-t border-gray-200 p-4 space-y-3">
             <button
               onClick={onApplyFilters}
-              className="w-full bg-blue-600 text-white py-2 px-4 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+              className="w-full bg-blue-600 text-white py-3 px-4 rounded-lg font-semibold hover:bg-blue-700 transition-colors text-base"
             >
               Apply Filters
             </button>
             <button
               onClick={onResetFilters}
-              className="w-full border border-gray-300 text-gray-700 py-2 px-4 rounded-lg font-semibold hover:bg-gray-50 transition-colors"
+              className="w-full border border-gray-300 text-gray-700 py-3 px-4 rounded-lg font-semibold hover:bg-gray-50 transition-colors text-base"
             >
               Reset Filters
             </button>
